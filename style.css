@@ -1,0 +1,55 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    align-items: center;
+}
+nav{
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h1{
+    color: #ffffff;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.left{
+    height: 100px;
+}
+main{
+    background-color: rgb(49, 40, 40);
+}
+.qr{
+    width: 200px;
+    height: 200px;
+}
+.mol div{
+    display: flex;
+    justify-content: space-around;
+}
+.mol h1{
+    text-align: center;
+}
+b{
+    color: aqua;
+}
+button{
+    background: #00EEFF;
+    width: 152px;
+    height: 45px;
+    top: 282px;
+    left: 113.87px;
+    padding: 11px 28.09px 11px 28px;
+    gap: 0px;
+    border-radius: 40px 0px 0px 0px;
+    opacity: 0px;
+    
+}
